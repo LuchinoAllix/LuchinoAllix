@@ -3,7 +3,7 @@
 ### Research
 
 - Mémoire (coming soon) [repo]() and [paper]() (french).
-- Visualisation of software dependencies [repo]([github.com/LuchinoAllix/](https://github.com/LuchinoAllix/Visualisation_des_d-pendances_logicielles)
+- Visualisation of software dependencies [repo](https://github.com/LuchinoAllix/Visualisation_des_d-pendances_logicielles)
 
 <!--
 **LuchinoAllix/LuchinoAllix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
