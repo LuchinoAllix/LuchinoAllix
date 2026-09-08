@@ -2,7 +2,7 @@
 
 ### Research
 
-- Mémoire (coming soon) [repo]() and [paper]() (french).
+- Mémoire [here](https://umontreal.scholaris.ca/items/a6f04516-1912-4bd2-80b9-114644ef5cb6) (french).
 - Visualisation of software dependencies [repo](https://github.com/LuchinoAllix/Visualisation_des_d-pendances_logicielles)
 
 <!--
