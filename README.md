@@ -2,7 +2,7 @@
 
 ### Research
 
-- Mémoire [here](https://umontreal.scholaris.ca/items/a6f04516-1912-4bd2-80b9-114644ef5cb6) (french). Try the tool [here](https://luchinoallix.github.io/) !
+- Mémoire about a step by step tool to show type inference [here](https://umontreal.scholaris.ca/items/a6f04516-1912-4bd2-80b9-114644ef5cb6) (french). Try the tool [here](https://luchinoallix.github.io/) !
 - Visualisation of software dependencies [repo](https://github.com/LuchinoAllix/Visualisation_des_d-pendances_logicielles)
 
 <!--
